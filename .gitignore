@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+
+#folders
+/deepenv
+/Dataset
+
+
 # Distribution / packaging
 .Python
 build/
@@ -143,6 +149,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
 
 # Spyder project settings
 .spyderproject
